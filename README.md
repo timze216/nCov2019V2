@@ -12,7 +12,7 @@ For therapeutics data:  [raps.org](https://www.raps.org/news-and-articles/news-a
 
 Data Fetching with API provided by [disease.sh](disease.sh)
 
-**For more details see our [vignette](https://guangchuangyu.github.io/nCov2019/), [Preprint](https://www.medrxiv.org/content/10.1101/2020.02.25.20027433v2), and [Shiny app](http://www.bcloud.org/e/).**
+**For more details see our [vignette](https://YuLab-SMU.github.io/nCov2019/), [Preprint](https://www.medrxiv.org/content/10.1101/2020.02.25.20027433v2), and [Shiny app](http://www.bcloud.org/e/).**
 
 
 ## :writing\_hand: Authors
